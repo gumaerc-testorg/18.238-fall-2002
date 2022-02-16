@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 563d1c08-0818-88b1-3e2f-387655c5ee84
 ---
@@ -56,9 +59,7 @@ Chapter 5: The Euler Characteristic of the Moduli Space of Curves ([PDF]({{< bas
 5.1 Euler Characteristics of Groups  
 5.2 The Mapping Class Group  
 5.3 Construction of the Complex _Y  
-_5.4 Enumeration of Cells in _Y_/Γ1g  
-  
-5.5 Computation of ∑n(−1)n−1(λg(n)/2n)
+_5.4 Enumeration of Cells in _Y_/Γ{{< sup "1" >}}{{< sub "g  \n  \n" >}}5.5 Computation of ∑{{< sub "n" >}}(−1){{< sup "n−1" >}}(λ{{< sub "g" >}}(n)/2n)
 
 Chapter 6: Matrix Integrals and Counting Planar Diagrams ([PDF]({{< baseurl >}}/resources/sec6))
 ------------------------------------------------------------------------------------------------

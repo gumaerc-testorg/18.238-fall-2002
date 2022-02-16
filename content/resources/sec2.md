@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Chapter 2 of Mathematical Idea and Notions of Quantum Theory
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-238-geometry-and-quantum-field-theory-fall-2002/f1d64cdfe3b3f3b9846dfe8149b8eb47_sec2.pdf
+file: /media/courses/18-238-geometry-and-quantum-field-theory-fall-2002/f1d64cdfe3b3f3b9846dfe8149b8eb47_sec2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: sec2.pdf
 uid: f1d64cdf-e3b3-f3b9-846d-fe8149b8eb47

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Chapter 5 of Mathematical Idea and Notions of Quantum Theory
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-238-geometry-and-quantum-field-theory-fall-2002/d96beb4c20b7a5f5c6ba6f75960bd975_sec5.pdf
+file: /media/courses/18-238-geometry-and-quantum-field-theory-fall-2002/d96beb4c20b7a5f5c6ba6f75960bd975_sec5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: sec5.pdf
 uid: d96beb4c-20b7-a5f5-c6ba-6f75960bd975
