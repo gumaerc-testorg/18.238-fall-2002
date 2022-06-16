@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 3ad66f3d-74d1-4cee-6a7d-7a5b44e262af
 ---
 
-**Note**: The readings refer to the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+**Note**: The readings refer to the {{% resource_link 563d1c08-0818-88b1-3e2f-387655c5ee84 "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
