@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 468f20c8-c00a-c970-fdf5-92066624880c
 ---
@@ -46,7 +49,7 @@ Topics
 Textbook and Lecture Notes
 --------------------------
 
-The textbook for the course is _Quantum Fields and Strings: A Course for Mathematicians_, AMS, 1998 (but I won’t closely follow it). Instead, I will rely heavily on the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+The textbook for the course is _Quantum Fields and Strings: A Course for Mathematicians_, AMS, 1998 (but I won’t closely follow it). Instead, I will rely heavily on the {{% resource_link 563d1c08-0818-88b1-3e2f-387655c5ee84 "lecture notes" %}}.
 
 Prerequisites
 -------------

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a79f9960-9491-19b3-ccf4-38d9ba2a2405
 ---
@@ -22,7 +26,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Generalities on QFT, the Stationary Phase Formula ([PDF]({{< baseurl >}}/resources/hwk1))
+Generalities on QFT, the Stationary Phase Formula ({{% resource_link bae0ea71-cf93-2671-1f15-6cfc187276e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Generalities on QFT, the Stationary Phase Formula ([PDF]({{< baseurl >}}/resourc
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Feynman Calculus ([PDF]({{< baseurl >}}/resources/hwk2))
+Feynman Calculus ({{% resource_link 003aad1d-a593-30ee-b032-94b875053a2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Feynman Calculus ([PDF]({{< baseurl >}}/resources/hwk2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix Integral ([PDF]({{< baseurl >}}/resources/hwk3))
+Matrix Integral ({{% resource_link 7b93c9bc-68cd-222e-43df-f820a59505b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Matrix Integral ([PDF]({{< baseurl >}}/resources/hwk3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Euler Characteristic of Moduli of Curves; Matrix Integrals and Counting Planar Diagrams ([PDF]({{< baseurl >}}/resources/hwk4))
+Euler Characteristic of Moduli of Curves; Matrix Integrals and Counting Planar Diagrams ({{% resource_link 3d93c31d-8a32-12f9-a4d5-0a85433df418 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Euler Characteristic of Moduli of Curves; Matrix Integrals and Counting Planar D
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Mechanics ([PDF]({{< baseurl >}}/resources/hwk5))
+Quantum Mechanics ({{% resource_link a8c6695f-5dd1-19ac-94ad-10715df55b4c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +71,7 @@ Quantum Mechanics ([PDF]({{< baseurl >}}/resources/hwk5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Operator Approach to Quantum Mechanics, Supergeometry ([PDF]({{< baseurl >}}/resources/hwk6))
+Operator Approach to Quantum Mechanics, Supergeometry ({{% resource_link 637c6467-a443-d608-e04a-37df81d69289 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Operator Approach to Quantum Mechanics, Supergeometry ([PDF]({{< baseurl >}}/res
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Mechanics for Fermions, Free Field Theory ([PDF]({{< baseurl >}}/resources/hwk7))
+Quantum Mechanics for Fermions, Free Field Theory ({{% resource_link bad7e42f-80b8-b850-3441-7a90093adf13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
