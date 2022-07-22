@@ -5,6 +5,7 @@ file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/7b93c9bc68cd22
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hwk3.pdf
 uid: 7b93c9bc-68cd-222e-43df-f820a59505b9
 ---
 Matrix Integral
-

@@ -5,6 +5,7 @@ file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/9730eef16a69d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sec1.pdf
 uid: 9730eef1-6a69-d1c9-4342-1db245568e03
 ---
 Chapter 1 of Mathematical Idea and Notions of Quantum Theory
-

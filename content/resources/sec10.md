@@ -5,6 +5,7 @@ file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/c117b5142adaba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sec10.pdf
 uid: c117b514-2ada-ba3e-80e4-1e10d1f0bbd1
 ---
 Chapter 10 of Mathematical Idea and Notions of Quantum Theory
-

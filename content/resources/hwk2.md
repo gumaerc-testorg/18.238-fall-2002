@@ -5,6 +5,7 @@ file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/003aad1da59330
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hwk2.pdf
 uid: 003aad1d-a593-30ee-b032-94b875053a2e
 ---
 Feynman Calculus
-

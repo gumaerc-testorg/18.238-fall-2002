@@ -5,6 +5,7 @@ file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/637c6467a443d6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hwk6.pdf
 uid: 637c6467-a443-d608-e04a-37df81d69289
 ---
 Operator Approach to Quantum Mechanics, Supergeometry
-
