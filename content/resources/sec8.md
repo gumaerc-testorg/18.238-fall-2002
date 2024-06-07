@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter 8 of Mathematical Idea and Notions of Quantum Theory
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/18ddb99a01b0de7bcc971c4ae3d3c483_sec8.pdf
+file_size: 181148
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter 5 of Mathematical Idea and Notions of Quantum Theory
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/d96beb4c20b7a5f5c6ba6f75960bd975_sec5.pdf
+file_size: 186195
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

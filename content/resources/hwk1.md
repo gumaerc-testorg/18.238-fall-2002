@@ -2,6 +2,7 @@
 content_type: resource
 description: Generalities on QFT, the Stationary Phase Formula
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/bae0ea71cf9326711f156cfc187276e2_hwk1.pdf
+file_size: 30735
 file_type: application/pdf
 learning_resource_types:
 - Assignments
