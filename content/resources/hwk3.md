@@ -2,6 +2,7 @@
 content_type: resource
 description: Matrix Integral
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/7b93c9bc68cd222e43dff820a59505b9_hwk3.pdf
+file_size: 37886
 file_type: application/pdf
 learning_resource_types:
 - Assignments

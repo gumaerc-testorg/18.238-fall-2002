@@ -2,6 +2,7 @@
 content_type: resource
 description: Feynman Calculus
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/003aad1da59330eeb03294b875053a2e_hwk2.pdf
+file_size: 31768
 file_type: application/pdf
 learning_resource_types:
 - Assignments

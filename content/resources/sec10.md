@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter 10 of Mathematical Idea and Notions of Quantum Theory
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/c117b5142adaba3e80e41e10d1f0bbd1_sec10.pdf
+file_size: 142717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

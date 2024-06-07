@@ -2,6 +2,7 @@
 content_type: resource
 description: Operator Approach to Quantum Mechanics, Supergeometry
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/637c6467a443d608e04a37df81d69289_hwk6.pdf
+file_size: 47734
 file_type: application/pdf
 learning_resource_types:
 - Assignments

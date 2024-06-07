@@ -2,6 +2,7 @@
 content_type: resource
 description: Quantum Mechanics for Fermions, Free Field Theory
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/bad7e42f80b8b85034417a90093adf13_hwk7.pdf
+file_size: 32643
 file_type: application/pdf
 learning_resource_types:
 - Assignments

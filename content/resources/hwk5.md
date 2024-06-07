@@ -2,6 +2,7 @@
 content_type: resource
 description: Quantum Mechanics
 file: /courses/18-238-geometry-and-quantum-field-theory-fall-2002/a8c6695f5dd119ac94ad10715df55b4c_hwk5.pdf
+file_size: 25652
 file_type: application/pdf
 learning_resource_types:
 - Assignments
